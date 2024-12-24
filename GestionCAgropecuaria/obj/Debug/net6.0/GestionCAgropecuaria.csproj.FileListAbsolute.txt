@@ -1,0 +1,14 @@
+C:\Users\Equipo\source\repos\GestionCAgropecuaria\GestionCAgropecuaria\obj\Debug\net6.0\GestionCAgropecuaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Equipo\source\repos\GestionCAgropecuaria\GestionCAgropecuaria\obj\Debug\net6.0\GestionCAgropecuaria.AssemblyInfoInputs.cache
+C:\Users\Equipo\source\repos\GestionCAgropecuaria\GestionCAgropecuaria\obj\Debug\net6.0\GestionCAgropecuaria.AssemblyInfo.cs
+C:\Users\Equipo\source\repos\GestionCAgropecuaria\GestionCAgropecuaria\obj\Debug\net6.0\GestionCAgropecuaria.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\source\repos\GestionCAgropecuaria\GestionCAgropecuaria\bin\Debug\net6.0\GestionCAgropecuaria.exe
+C:\Users\Equipo\source\repos\GestionCAgropecuaria\GestionCAgropecuaria\bin\Debug\net6.0\GestionCAgropecuaria.deps.json
+C:\Users\Equipo\source\repos\GestionCAgropecuaria\GestionCAgropecuaria\bin\Debug\net6.0\GestionCAgropecuaria.runtimeconfig.json
+C:\Users\Equipo\source\repos\GestionCAgropecuaria\GestionCAgropecuaria\bin\Debug\net6.0\GestionCAgropecuaria.dll
+C:\Users\Equipo\source\repos\GestionCAgropecuaria\GestionCAgropecuaria\bin\Debug\net6.0\GestionCAgropecuaria.pdb
+C:\Users\Equipo\source\repos\GestionCAgropecuaria\GestionCAgropecuaria\obj\Debug\net6.0\GestionCAgropecuaria.dll
+C:\Users\Equipo\source\repos\GestionCAgropecuaria\GestionCAgropecuaria\obj\Debug\net6.0\refint\GestionCAgropecuaria.dll
+C:\Users\Equipo\source\repos\GestionCAgropecuaria\GestionCAgropecuaria\obj\Debug\net6.0\GestionCAgropecuaria.pdb
+C:\Users\Equipo\source\repos\GestionCAgropecuaria\GestionCAgropecuaria\obj\Debug\net6.0\GestionCAgropecuaria.genruntimeconfig.cache
+C:\Users\Equipo\source\repos\GestionCAgropecuaria\GestionCAgropecuaria\obj\Debug\net6.0\ref\GestionCAgropecuaria.dll
